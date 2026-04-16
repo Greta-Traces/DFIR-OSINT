@@ -24,4 +24,4 @@ No diplomas yet, but a growing foundation and a clear direction.
 - `writeups/` — DFIR lessons and findings
 - `osint/` — platform notes and methodology
 - `ctf/` — challenge writeups
-- `tools/` — small scripts and utilities
+
